@@ -6,11 +6,12 @@ body {
     color: #333;
   }
   
-  h1, h2 {
+  h2 {
     color: #333;
   }
   
-  header {
+  a,header {
+    text-decoration: none;
     background-color: #34495e;
     color: white;
     padding: 20px;
